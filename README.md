@@ -1,4 +1,4 @@
-#Lista de Exercícios Docker🐳 - Compass UOL👨🏻‍💻
+# Lista de Exercícios Docker🐳 - Compass UOL👨🏻‍💻
 
 ## Introdução
 Lista com 13 exercícios da Compass UOL com foco em Docker, e também com outras tecnologias como python, mongo, react, entre outros.
